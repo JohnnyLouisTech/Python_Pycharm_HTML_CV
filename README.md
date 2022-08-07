@@ -1,1 +1,1 @@
-# Pyhon_Pycharm_HTML_CV
+# Python_Pycharm_HTML_CV
